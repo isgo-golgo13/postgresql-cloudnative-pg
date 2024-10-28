@@ -1,6 +1,17 @@
 # HA PostgresSQL CloudNativePG for Kubernetes HA
 Cloud-Native PostgresSQL Kubernetes Operator CloudNativePg HA 
 
+## Provisioning CloudNativePG using GitOps Workflows
+In-Progress
+### Provisioning CloudNativePG using ArgoCD ApplicationSets
+In-Progress
+
+### Provisioning CloudNativePG using FluxCD
+In-Progress
+### Provisioning CloudNativePG using Crossplane and ArgoCD
+In-Progress
+### Provisioning CloudNativePG using Crossplane and FluxCD
+In-Progress
 
 ## CloudNativePG Cluster CR for HA Failover No-Data Loss 
 
