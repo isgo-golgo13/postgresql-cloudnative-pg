@@ -1,4 +1,4 @@
-# HA PostgresSQL CloudNativePG for Kubernetes HA IaC
+# HA PostgresSQL CloudNativePG for Kubernetes HA
 Cloud-Native PostgresSQL Kubernetes Operator CloudNativePg HA 
 
 
